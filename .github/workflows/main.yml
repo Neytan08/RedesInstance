@@ -1,6 +1,7 @@
 #This is a basic workflow to help you get started with actions
 
-name: Demo 1 Biuld Only
+#name: Demo 1 Biuld Only
+name: Demo 2 Biuld and Release
 
 #Controls when the workflow will run
 
@@ -47,3 +48,18 @@ jobs:
         with:
          name: proyectoredes-build
          path: app/build
+         
+  release:
+    needs: build
+    runs-on: project #Name of label in the runner
+    
+    steps:
+    
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v3.0.0
+        with:
+          # Artifact name
+          name: proyectoredes-build
+          # Destination path
+          path: /var/www/proyectoredes
+      
