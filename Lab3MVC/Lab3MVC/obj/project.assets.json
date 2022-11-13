@@ -470,23 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xpc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ELITE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xpc\\Downloads\\1w3\\Proyecto_1_B95571_B98295_B70274_B97291\\Proyecto_Lenguajes\\Lab3MVC\\Lab3MVC\\Lab3MVC.csproj",
+      "projectUniqueName": "C:\\Users\\ELITE\\OneDrive\\Documentos\\GitHub\\RedesInstance\\Lab3MVC\\Lab3MVC\\Lab3MVC.csproj",
       "projectName": "Lab3MVC",
-      "projectPath": "C:\\Users\\Xpc\\Downloads\\1w3\\Proyecto_1_B95571_B98295_B70274_B97291\\Proyecto_Lenguajes\\Lab3MVC\\Lab3MVC\\Lab3MVC.csproj",
-      "packagesPath": "C:\\Users\\Xpc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xpc\\Downloads\\1w3\\Proyecto_1_B95571_B98295_B70274_B97291\\Proyecto_Lenguajes\\Lab3MVC\\Lab3MVC\\obj\\",
+      "projectPath": "C:\\Users\\ELITE\\OneDrive\\Documentos\\GitHub\\RedesInstance\\Lab3MVC\\Lab3MVC\\Lab3MVC.csproj",
+      "packagesPath": "C:\\Users\\ELITE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ELITE\\OneDrive\\Documentos\\GitHub\\RedesInstance\\Lab3MVC\\Lab3MVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Xpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ELITE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

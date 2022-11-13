@@ -1,0 +1,13 @@
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\Lab3MVC.exe
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\appsettings.Development.json
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\appsettings.json
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\Lab3MVC.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\Lab3MVC.deps.json
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\Lab3MVC.runtimeconfig.json
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\Lab3MVC.pdb
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\System.Data.SqlClient.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\runtimes\win-arm64\native\sni.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\runtimes\win-x64\native\sni.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\runtimes\win-x86\native\sni.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ELITE\OneDrive\Documentos\GitHub\RedesInstance\app\build\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
