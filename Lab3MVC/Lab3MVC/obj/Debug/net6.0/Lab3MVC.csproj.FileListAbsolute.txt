@@ -1,0 +1,500 @@
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\source\repos\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Equipo.DESKTOP-F1DROBB\Downloads\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\EstebanAntonioSanabr\Downloads\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Documentos\Lab6MVC\Lab4MVC\Lab4MVC\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Yankar\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Alvaro Miranda Cort\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Alvaro Miranda Cort\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\XCPC\Documents\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\XCPC\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Xpc\Downloads\maikel cambios\Proyecto_Lenguajes-Back-end_2\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Gloriana\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Xpc\Documents\GitHub\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.staticwebassets.runtime.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.exe
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.deps.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.runtimeconfig.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.AssemblyReference.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfoInputs.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.AssemblyInfo.cs
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CoreCompileInputs.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.RazorAssemblyInfo.cs
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets\msbuild.Lab3MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab3MVC.props
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab3MVC.props
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab3MVC.props
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\bundle\Lab3MVC.styles.css
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab3MVC.bundle.scp.css
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.csproj.CopyComplete
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\refint\Lab3MVC.dll
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.pdb
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\Lab3MVC.genruntimeconfig.cache
+C:\Users\Xpc\Downloads\1w3\Proyecto_1_B95571_B98295_B70274_B97291\Proyecto_Lenguajes\Lab3MVC\Lab3MVC\obj\Debug\net6.0\ref\Lab3MVC.dll

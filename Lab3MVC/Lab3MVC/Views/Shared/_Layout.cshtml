@@ -1,0 +1,1939 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Parqueo Barcroft</title>
+    <!-- 
+
+Known Template 
+
+https://templatemo.com/tm-516-known
+
+-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/templatemo-style.css">
+
+</head>
+
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+
+    <!-- PRE LOADER -->
+    <section class="preloader">
+        <div class="spinner">
+
+            <span class="spinner-rotate"></span>
+
+        </div>
+    </section>
+
+
+    <!-- MENU -->
+    <section class="navbar custom-navbar navbar-fixed-top" role="navigation">
+        <div class="container">
+
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon icon-bar"></span>
+                    <span class="icon icon-bar"></span>
+                    <span class="icon icon-bar"></span>
+                </button>
+
+                <!-- lOGO TEXT HERE -->
+                <a href="#" class="navbar-brand">Barcroft</a>
+            </div>
+
+            <!-- MENU LINKS -->
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-nav-first">
+                    <li><a href="#top" class="smoothScroll">Inicio</a></li>
+
+                    
+                    <li><a href="#add_client" id="menu_add_client" class="smoothScroll">Crear Cliente</a></li>
+
+                    <li><a href="#feature" id="menu_sing_up" class="smoothScroll">Iniciar Sesión</a></li>
+
+                    <li><a href="#Users" id="menu_users" class="smoothScroll">Usuarios</a></li>
+                    <li><a href="#AddParking" id="menu_parking" class="smoothScroll">Crear Parqueo</a></li>
+                    <li><a href="#AddVehicule" id="menu_vehicule" class="smoothScroll">Ingresar Vehículo</a></li>
+                    <li><a href="#parking" id="menu_parkings" class="smoothScroll">Parqueos</a></li>
+                    <li><a href="#vehicule" id="menu_vehicules" class="smoothScroll">Vehículos</a></li>
+                    <li><a href="#Rate" id="menu_rate" class="smoothScroll">Tarifa</a></li>
+                    <li><a href="#AddRole" id="menu_create_role" class="smoothScroll">Crear Rol</a></li>
+                    <li><a href="#Role" id="menu_role" class="smoothScroll">Rol</a></li>
+                    
+                    
+                    <li><a href="#space" id="menu_space" class="smoothScroll">Espacio</a></li>
+                    
+                    <li><a href="#contact" id="menu_contact" class="smoothScroll">Contáctanos</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#" id="menu_log_out" onclick="prueba();"></> Cerrar Sesión</a></li>                    
+                </ul>
+            </div>
+
+        </div>
+    </section>
+
+
+    <!-- HOME -->
+    <section id="home">
+        <div class="row">
+
+            <div class="owl-carousel owl-theme home-slider">
+                <div class="item item-first">
+                    <div class="caption">
+                        <div class="container">
+                            <div class="col-md-6 col-sm-12">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-second">
+                    <div class="caption">
+                        <div class="container">
+                            <div class="col-md-6 col-sm-12">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item item-third">
+                    <div class="caption">
+                        <div class="container">
+                            <div class="col-md-6 col-sm-12">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    
+    <!--ID SESION USER -->
+
+     <input type="text" name="idUserSesion" id="idUserSesion" hidden>
+
+
+    <!--NEWWWWWWWW -->
+    <section id="feature">
+        <div class="cont">
+            <div class="form sign-in">
+                <h2>Bienvenido</h2>
+                <label>
+                    <input type="email" name="email_sing_up" id="email_sing_up" class="new"
+                        placeholder="Correo electrónico" required="required"/>
+                </label>
+                <label>                 
+                    <input type="password" name="password_sing_up" id="password_sing_up" class="new"
+                        placeholder="Contraseña" required="required"/>
+                </label>
+                <button type="button" class="submit" onsubmit="" id="form-submit" onclick="return LogIn()">Iniciar
+                    Sesión</button>
+
+            </div>
+            <div class="sub-cont">
+                <div class="img">
+                    <div class="img__text m--up">
+
+                        <h3>¿No tienes cuenta?, Create una.<h3>
+                    </div>
+                    <div class="img__text m--in">
+
+                        <h3>Si ya tienen una cuenta, inicia sesión aca.<h3>
+                    </div>
+                    <div class="img__btn">
+                        <span class="m--up">Crear cuenta</span>
+                        <span class="m--in">Inicio de Sesión</span>
+                    </div>
+                </div>
+                <div class="form sign-up">                   
+                    <h2>Crear tu cuenta</h2>
+
+                    <input type="text" name="id" id="id" hidden>
+
+
+                    <label>
+                        <input type="text" name="name" id="name" class="form-control" placeholder="Nombre"
+                            required="required" />
+                    </label>
+
+                    <label>
+                        <input type="text" name="lastName" id="lastName" class="form-control" placeholder="Apellidos"
+                            required="required" />
+                    </label>
+
+                    <label>
+                        <input type="text" name="phone" id="phone" class="form-control" placeholder="Teléfono"
+                            required="required" />
+                    </label>
+
+                    <label>
+                        <input type="text" name="adress" id="adress" class="form-control" placeholder="Dirección"
+                            required="required" />
+                    </label>
+
+                    <label>
+                        <input type="email" name="email" id="email" class="form-control"
+                            placeholder="Correo electrónico" required="required" />
+                    </label>
+
+                    <input type="text" name="role" id="role" hidden value="1">
+
+                    <label>
+                        <input type="password" name="password" id="password" class="form-control"
+                            placeholder="Contraseña" required="required" autocomplete="off" />
+                    </label>
+
+                    <label>
+                        <input type="password" name="password2" id="password2" class="form-control"
+                            placeholder="Repita la contraseña" required="required">
+                    </label>
+
+                    <label style="color:#193D64">Debe llenar todos los espacios</label>
+                    <button type="button" class="submit" onclick="Add();" id="form-submit">Crear cuenta</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <script>
+            document.querySelector('.img__btn').addEventListener('click', function () {
+                document.querySelector('.cont').classList.toggle('s--signup');
+            });
+        </script>
+    </section>
+
+    <!--NEWWWWWWWW -->
+    <div class="modal fade" href="#modalContactForm" id="modalContactForm" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Usuario</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="name_edit">Nombre</label>
+                        <input type="text" id="name_edit" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="lastName_edit">Apellidos</label>
+                        <input type="text" id="lastName_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="phone_edit">Telefono</label>
+                        <input type="text" id="phone_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="adress_edit">Dirección</label>
+                        <input type="text" id="adress_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="email_edit">Correo Electronico</label>
+                        <input type="email" id="email_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="password_edit">Contraseña</label>
+                        <input type="password" id="password_edit" class="form-control validate" readonly onmousedown="return false;">
+
+                    </div>
+
+                </div>
+                <div>
+                   <!-- <button class="btn btn-unique" onclick="Update();">Editar <i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                            <button type="button" class="btn btn-success" onclick="Update_User();">Editar</button>
+                    <label id="result_edit"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+     <div class="modal fade" href="#modalContactForm" id="adminModal" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Administrador</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="name_edit">Nombre</label>
+                        <input type="text" id="nameAdmin_edit" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="lastName_edit">Apellidos</label>
+                        <input type="text" id="lastNameAdmin_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="phone_edit">Telefono</label>
+                        <input type="text" id="phoneAdmin_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="adress_edit">Dirección</label>
+                        <input type="text" id="adressAdmin_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="email_edit">Correo Electronico</label>
+                        <input type="email" id="emailAdmin_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="password_edit">Contraseña</label>
+                        <input type="password" id="passwordAdmin_edit" class="form-control validate" readonly
+                            onmousedown="return false;">
+
+                    </div>
+
+                </div>
+                <div>
+                    <button class="btn btn-unique" onclick="UpdateAdmin();">Editar <i
+                            class="fas fa-paper-plane-o ml-1"></i></button>
+                    <label id="resultAdmin_edit"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <div class="modal fade" href="#modalContactForm" id="dependentModal" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Administrador</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="name_edit">Nombre</label>
+                        <input type="text" id="nameD_edit" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="lastName_edit">Apellidos</label>
+                        <input type="text" id="lastNameD_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="phone_edit">Telefono</label>
+                        <input type="text" id="phoneD_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="adress_edit">Dirección</label>
+                        <input type="text" id="adressD_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="email_edit">Correo Electronico</label>
+                        <input type="email" id="emailD_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="password_edit">Contraseña</label>
+                        <input type="password" id="passwordD_edit" class="form-control validate" readonly
+                            onmousedown="return false;">
+
+                    </div>
+
+                </div>
+                <div>
+                    <button class="btn btn-unique" onclick="UpdateDependent();">Editar <i
+                            class="fas fa-paper-plane-o ml-1"></i></button>
+                    <label id="resultD_edit"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" href="#modalContactForm" id="modalContactFormm" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Parqueo</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <input type="text" name="id" id="id_parking" hidden>
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="name_parking_edit">Nombre de Parqueo</label>
+                        <input type="text" id="name_parking_edit" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="capacity_edit">Capacidad</label>
+                        <input type="text" id="capacity_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="province_edit">Provincia</label>
+                        <input type="text" id="province_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="district_edit">Distrito</label>
+                        <input type="text" id="district_edit" class="form-control validate">
+
+                    </div>
+
+
+                </div>
+                <div>
+
+                    <!--<button class="btn btn-unique" onclick="Update_Parking();">Editar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                        <button type="button" class="btn btn-success" onclick="Update_Parking();">Editar</button>    
+
+                    <label id="result_Parking"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" href="#modalContactForm" id="modalContactFormmm" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Tarifa</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    <input type="text" name="id_rate_edit" id="id_rate_edit" hidden>
+                    <div class="md-form mb-5">
+                          <label data-error="wrong" data-success="right" for="ratetype_edit">Tipo de  vehiculo</label>
+                        <select class="form-control validate" name="ratetype_edit" id="ratetype_edit" autocomplete="off">
+
+                                <option value="0" selected>Tipo de Vehículo</option>
+                            </select>
+                        
+                    </div>
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_Hour_edit">Por Hora</label>
+                        <input type="text" id="Per_Hour_edit" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_HalfHour_edit">Por media Hora</label>
+                        <input type="text" id="Per_HalfHour_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_Day_edit">Por Día</label>
+                        <input type="text" id="Per_Day_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_Week_edit">Por Semana</label>
+                        <input type="text" id="Per_Week_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_Month_edit">Por Mes</label>
+                        <input type="text" id="Per_Month_edit" class="form-control validate">
+
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="Per_Year_edit">Por año</label>
+                        <input type="text" id="Per_Year_edit" class="form-control validate">
+
+                    </div>
+
+
+                </div>
+                <div>
+
+                    <!--<button class="btn btn-unique" onclick="Update_Parking();">Editar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                            <button type="button" class="btn btn-success" onclick="Update_Rate();">Editar</button>   
+
+
+                    <label id="result_Rate_edit"></label>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+   <!-- <div class="text-center">
+        <a href="" class="btn btn-default btn-rounded mb-4" data-toggle="modal" id="btn_modal_rate" data-target="#modalContactFormmm">Editar Tarifa</a>
+    </div>-->
+
+
+
+
+
+    <div class="modal fade" href="#modalContactForm" id="modalContactFormmmm" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Rol</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                                <input type="text" name="id_rol_edit" id="id_rol_edit" hidden>
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="name_role_edit">Rol</label>
+                        <input type="text" id="name_role_edit" class="form-control validate" autocomplete="off">
+                    </div>
+
+                </div>
+                <div>
+                     
+
+                    <!--<button class="btn btn-unique" onclick="Update_Parking();">Editar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                           <button type="button" class="btn btn-success" onclick="Update_Role();">Editar</button>
+
+                    <label id="result_role"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--<div class="text-center">
+        <a href="" class="btn btn-default btn-rounded mb-4" id="btn_modal_role" data-toggle="modal" id="btn_modal_rate"
+            data-target="#modalContactFormmmm">Editar Rol</a>
+    </div>-->
+    
+
+   @*  <!--Vehiculo modal-->
+    <div class="modal fade" href="#modalContactForm" id="vehicule_modal" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Vehiculo</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <input type="text" name="id_vehicule_edit" id="id_vehicule_edit" hidden>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="plate_edit">Matricula</label>
+                        <input type="text" id="plate_edit" class="form-control validate" readonly onmousedown="return false;" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="color_edit">Color</label>
+                        <input type="text" id="color_edit" class="form-control validate" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="brand_edit">Marca</label>
+                        <input type="text" id="brand_edit" class="form-control validate" readonly onmousedown="return false;" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="type_edit">Tipo de  vehiculo</label>
+                        <select class="form-control validate" name="type_edit" id="type_edit" autocomplete="off">
+
+                                <option value="0" selected>Tipo de Vehículo</option>
+                            </select>
+                        
+                    </div>
+
+                </div>
+                <div>
+
+                     <!--<button class="btn btn-unique" onclick="Update_Vehicule()">Editar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                        <button type="button" class="btn btn-success" onclick="Update_Vehicule()">Editar</button>   
+                        <label id="result_vehicule"></label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+
+
+    <!--Vehiculo modal-->
+    <div class="modal fade" href="#modalContactForm" id="vehicule_modalU" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Editar Vehiculo</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <input type="text" name="id_vehicule_edit" id="id_vehicule_editU" hidden>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="plate_edit">Matricula</label>
+                        <input type="text" id="plate_editU" class="form-control validate" readonly onmousedown="return false;" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="color_edit">Color</label>
+                        <input type="text" id="color_editU" class="form-control validate" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="brand_edit">Marca</label>
+                        <input type="text" id="brand_editU" class="form-control validate" readonly onmousedown="return false;" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="type_editU">Tipo de vehiculo</label>
+                        <select class="form-control validate" name="type_editU" id="type_editU" autocomplete="off">
+
+                                <option value="0" selected>Tipo de Vehículo</option>
+                            </select>
+                        
+                    </div>
+
+                </div>
+                <div>
+
+                     <!--<button class="btn btn-unique" onclick="Update_Vehicule()">Editar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                        <button type="button" class="btn btn-success" onclick="Update_VehiculeU()">Editar</button>   
+                        <label id="result_vehiculeU"></label>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!--<div class="text-center">
+        <a href="" class="btn btn-default btn-rounded mb-4" id="btn_modal_role" data-toggle="modal" id="btn_modal_rate"
+            data-target="#vehicule_modal">Editar Rol</a>
+    </div>-->
+    
+
+    <!--Espacio modal-->
+    <div class="modal fade" href="#modalContactForm" id="modalContactFormmmmm" tabindex="-1" role="dialog"
+        aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Reserva</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body mx-3">
+                    
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="id_space" hidden>Rol</label >
+                            
+                        <input type="text" id="id_space" hidden>
+                    </div>
+
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="number_space">Numero de espacio</label>
+                        <input type="text" id="number_space" class="form-control validate"  readonly onmousedown="return false;" autocomplete="off"> 
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="parking_space">Parqueo espacio</label>
+                        <input type="text" id="parking_space" class="form-control validate"  readonly onmousedown="return false;" autocomplete="off">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="type_space">Tipo de espacio</label>
+                        <select class="form-control validate" name="type_space" id="type_space" autocomplete="off">
+                                
+                                
+
+                            </select>
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="status_space">Estatus del espacio</label>
+                        <select class="form-control validate" name="status_space" id="status_space">
+                                <option value="Ocupado">Ocupado</option>
+                                <option value="Disponible" selected>Disponible</option>
+                                <option value="Reservado">Reservado</option>
+                            </select>
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="check_In">Hora de entrada</label>
+                        <input type="datetime-local" id="check_In" class="form-control validate">
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="rate_space">Tiempo de Reserva</label>
+                        <select class="form-control validate" name="rate_space" id="rate_space">
+                                <option value="Por Hora">Por Hora</option>
+                                <option value="Por Media Hora" selected>Por MediaHora</option>
+                                <option value="PorDía">Por Día</option>
+                                <option value="Por Semana">Por Semana</option>
+                                <option value="Por Mes">Por Mes</option>
+                                <option value="Por Año">Por Año</option>
+
+                            </select>
+                    </div>
+
+                    <div class="md-form mb-5">
+                        <label data-error="wrong" data-success="right" for="check_Out">Seleccione el vehiculo</label>
+                            <select class="form-control validate" name="space_Vehicule" id="space_Vehicule">
+                                <option value="0" selected>Vehículo</option>
+                            </select>
+                    </div>
+
+
+                </div>
+                <div>
+
+                     <!--<button class="btn btn-unique" onclick="Update_Space();">Reservar<i class="fas fa-paper-plane-o ml-1"></i></button>-->
+                            <button type="button" class="btn btn-success" onclick="Update_Space();">Editar</button>
+                            <label id="result_space"></label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+   <!--Botones <div class="text-center">
+        <a href="" class="btn btn-default btn-rounded mb-4" id="btn_modal_role" data-toggle="modal" id="btn_modal_rate" data-target="#modalContactFormmmmm">Agregar</a>
+    </div>-->
+
+
+
+
+
+    <div class="modal fade" id="modaldetalleventa" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-notify modal-success modal-fluid modal-dialog-centered " role="document">
+            <!--Content-->
+            <div class="modal-content">
+                <!--Header-->
+                <div class="modal-header">
+                    <p class="heading lead">Tarifa</p>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true" class="white-text">&times;</span>
+                    </button>
+                </div>
+                <!--Body-->
+                <div class="modal-body">
+                    <div class="text-center">
+                        <i class="fa fa-money fa-4x mb-3 animated rotateIn"></i>
+                        <table class="table">
+                            <caption></caption>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        Tipo de Vehículo
+                                    </th>
+                                    <th>
+                                        Por Hora
+                                    </th>
+                                    <th>
+                                        Por media Hora
+                                    </th>
+                                    <th>
+                                        Por Día
+                                    </th>
+                                    <th>
+                                        Por Semana
+                                    </th>
+                                    <th>
+                                        Por Mes
+                                    </th>
+                                    <th>
+                                        Por Año
+                                    </th>
+
+
+                                </tr>
+                                <table class="table table-bordered table-hover" id="students-table">
+
+                                    <tbody id="Rate-tbody2">
+                                    </tbody>
+
+
+                                </table>
+                    </div>
+                </div>
+                <!--Footer-->
+                <div class="modal-footer justify-content-center">
+                </div>
+            </div>
+            <!--/.Content-->
+        </div>
+    </div>
+
+     
+     <section id="add_client">
+          <div class="container">
+               <div class="row">
+
+
+                    <div class="col-md-offset-1 col-md-4 col-sm-12">
+                         <div class="entry-form">
+                             <form action="" id="student2-entry-form">
+                                   <h2>Crear Cuenta</h2>
+                                    <input type="text" name="id2" id="id2" hidden>
+
+                                   <input type="text" name="name2" id="name2" class="form-control" placeholder="Nombre" required="">
+
+                                    <input type="text" name="lastName2" id="lastName2" class="form-control" placeholder="Apellidos" required="">
+
+                                   <input type="text" name="phone2" id="phone2" class="form-control" placeholder="Teléfono" required="">
+
+                                   <input type="text" name="adress2" id="adress2" class="form-control" placeholder="Dirección" required="">
+
+                                   <input type="email" name="email2" id="email2" class="form-control" placeholder="Correo electronico" required="">
+
+                                   <input type="password" name="password20" id="password20" class="form-control" placeholder="Contraseña" required="">
+
+                                   <input type="text" name="role2" id="role2" hidden value="1">
+                                   <input type="password" name="password22" id="password22" class="form-control" placeholder="Introduzca de nuevo la contraseña" required="">
+
+                                   <button class="submit-btn form-control" onsubmit="return Add2();" id="form-submit">Registrar</button>
+
+                                    <button class="submit-btn form-control" onclick="Clear2();return false" id="form-cancel">Cancelar</button>
+
+                                    <label id="result"></label>
+    </form>
+    </div>
+    </div>
+
+    </div>
+    </div>
+    </section>
+    
+    
+    <input type="text" name="idUserSesion" id="idUserSesion" hidden>
+
+    
+    <section id="AddVehicule">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+
+                        <form action="" id="vehicule-entry-form">
+                            <h2>Ingresar Vehículo</h2>
+                            <input type="text" name="id_vehicule" id="id_vehicule" hidden>
+                            
+    
+
+                            <input type="text" name="license_Plate" id="license_Plate" class="form-control"
+                                placeholder="Matricula" required="" autocomplete="off">
+
+                            <input type="text" name="color" id="color" class="form-control" placeholder="Color"
+                                required="" autocomplete="off">
+
+                            <input type="text" name="brand" id="brand" class="form-control" placeholder="Marca"
+                                required="" autocomplete="off">
+
+
+                            <select class="form-control without-margin" name="vehicule_Type" id="vehicule_Type" autocomplete="off">
+
+                                <option value="0" selected>Tipo de Vehículo</option>
+                            </select>
+
+                            <!--Buttons-->
+                            <div className="selection-btn">
+                            <button class="submit-btn form-control" onsubmit="return Add_Vehicule();"
+                                id="form-submit">Registrar</button>
+                            <button class="submit-btn form-control" onclick="Clear_Vehicule();return false"
+                                id="form-cancel">Cancelar</button>
+                                </div>
+                            <label id="result_vehicule"></label>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    
+
+
+    <!-- CLIENTS -->
+    <section id="Users">
+        <div class="container">
+            <div class="row">
+
+                <div class="section-title">
+                    <h2>Clientes<small></small></h2>
+                </div>
+
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="students-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Apellidos
+                                    </th>
+                                    <th>
+                                        Telefono
+                                    </th>
+                                    <th>
+                                        Dirección
+                                    </th>
+                                    <th>
+                                        Correo Electronico
+                                    </th>
+                                    <th>
+                                        Rol
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+
+
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="students-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section id="AddParking">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+                        <form action="" id="parking-entry-form">
+                            <h2>Crear Parqueo</h2>
+                            <input type="text" name="id" id="id_parking" hidden>
+
+                            <input type="text" name="name_Parking" id="name_Parking" class="form-control"
+                                placeholder="Nombre del Parqueo" required="">
+
+                            <input type="text" name="capacity" id="capacity" class="form-control"
+                                placeholder="Capacidad" required="">
+
+                            <input type="text" name="province" id="province" class="form-control"
+                                placeholder="Provincia" required="">
+
+                            <input type="text" name="district" id="district" class="form-control" placeholder="Distrito"
+                                required="">
+
+                            <!--Buttons-->
+                            <button class="submit-btn form-control" onsubmit="" id="form-submit">Registrar</button>
+
+
+                            <button class="submit-btn form-control" onclick="Clear_Parking();return false"
+                                id="form-cancel">Cancelar</button>
+
+                            <label id="result_Parking"></label>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <!-- CLIENTS -->
+    <section id="parking">
+        <div class="container">
+            <div class="row">
+
+                <div class="section-title">
+                    <h2>Parking<small></small></h2>
+                </div>
+
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="parking-table">
+
+                            <thead>
+
+                                <tr>
+
+
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Capacity
+                                    </th>
+                                    <th>
+                                        Province
+                                    </th>
+                                    <th>
+                                        District
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="parking-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+     <!-- CLIENTS -->
+    <section id="parking_client">
+        <div class="container">
+            <div class="row">
+
+                <div class="section-title">
+                    <h2>Parqueos<small></small></h2>
+                </div>
+
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="parkingClient-table">
+
+                            <thead>
+
+                                <tr>
+
+
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Capacity
+                                    </th>
+                                    <th>
+                                        Province
+                                    </th>
+                                    <th>
+                                        District
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="parkingClient-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+    
+    <!-- ADMIN -->
+    <section id="Admin">
+        <div class="container">
+            <div class="row">
+
+                <div class="section-title">
+                    <h2>Administradores<small></small></h2>
+                </div>
+
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-bordered table-hover" id="admin-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Apellidos
+                                    </th>
+                                    <th>
+                                        Telefono
+                                    </th>
+                                    <th>
+                                        Dirección
+                                    </th>
+                                    <th>
+                                        Correo Electronico
+                                    </th>
+                                    <th>
+                                        Rol
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+
+
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="admin-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    
+    <!-- DEPENDENT -->
+    <section id="Dependent">
+        <div class="container">
+            <div class="row">
+
+                <div class="section-title">
+                    <h2>Dependientes<small></small></h2>
+                </div>
+
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-bordered table-hover" id="dependet-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Name
+                                    </th>
+                                    <th>
+                                        Apellidos
+                                    </th>
+                                    <th>
+                                        Telefono
+                                    </th>
+                                    <th>
+                                        Dirección
+                                    </th>
+                                    <th>
+                                        Correo Electronico
+                                    </th>
+                                    <th>
+                                        Rol
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+
+
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="dependet-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- VEHICULE -->
+    <section id="vehicule">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Vehículos<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="vehicule-table">
+
+                            <thead>
+
+                                <tr>
+                                    <th>
+                                        Matricula
+                                    </th>
+                                    <th>
+                                        Color
+                                    </th>
+                                    <th>
+                                        Marca
+                                    </th>
+                                    <th>
+                                        Tipo de vehiculo
+                                    </th>
+                                    
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="vehicule-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+     <!-- VEHICULE USER-->
+    <section id="vehiculeUser">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Vehículos del Usuario<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="vehicule-table">
+
+                            <thead>
+
+                                <tr>
+                                    <th>
+                                        Matricula
+                                    </th>
+                                    <th>
+                                        Color
+                                    </th>
+                                    <th>
+                                        Marca
+                                    </th>
+                                    <th>
+                                        Tipo de vehiculo
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="vehiculeUser-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+     <section id="AddRate">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+                        <form action="" id="rate-entry-form">
+                            <h2>Crear Tarifa</h2>
+                            <input type="text" name="id" id="id_rate" hidden>
+                            <select class="form-control without-margin" name="Rate_Type" id="Rate_Type" autocomplete="off">
+
+                                <option value="0" selected>Tipo de Vehículo</option>
+                            </select>
+
+                            <input type="text" name="per_Hour" id="per_Hour" class="form-control"
+                                placeholder="Por Hora" required="">
+
+                            <input type="text" name="per_HalfHour" id="per_HalfHour" class="form-control"
+                                placeholder="Por Media Hora" required="">
+
+                            <input type="text" name="per_Day" id="per_Day" class="form-control"
+                                placeholder="Por Día" required="">
+
+                            <input type="text" name="per_Week" id="per_Week" class="form-control" placeholder="Por Semana"
+                                required="">
+
+                                  <input type="text" name="per_Month" id="per_Month" class="form-control"
+                                placeholder="Por Mes" required="">
+
+                                 <input type="text" name="per_Year" id="per_Year" class="form-control"
+                                placeholder="Por Año" required="">
+
+                            <!--Buttons-->
+                            <button class="submit-btn form-control" onsubmit="return Add_Rate();"
+                                id="form-submit">Ingresar</button>
+
+
+                            <button class="submit-btn form-control" onclick="Clear_Rate();return false"
+                                id="form-cancel">Cancelar</button>
+
+                            <label id="result_Rate"></label>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <!-- CLIENTS -->
+    <section id="Rate">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Tarifa<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+                    <div class="table-responsive">
+                        <table class="table table-striped" id="students-table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        Tipo Vehículo
+                                    </th>
+                                    <th>
+                                        Por Hora
+                                    </th>
+                                    <th>
+                                        Por media Hora
+                                    </th>
+                                    <th>
+                                        Por Día
+                                    </th>
+                                    <th>
+                                        Por Semana
+                                    </th>
+                                    <th>
+                                        Por Mes
+                                    </th>
+                                    <th>
+                                        Por Año
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody id="Rate-tbody">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="AddRole">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+                        <form action="" id="rol-entry-form">
+                            <h2>Agregar nuevo rol</h2>
+                            <input type="text" name="id_rol" id="id_vehicule" hidden>
+
+                            <input type="text" name="name_Rol" id="name_rol" class="form-control"
+                                placeholder="Nombre del Rol" required="">
+
+                            <!--Buttons-->
+                            <button class="submit-btn form-control" onsubmit="" id="form-submit">Agregar</button>
+
+                            <button class="submit-btn form-control" onclick="Clear_Role();return false"
+                                id="form-cancel">Cancelar</button>
+
+                            <label id="result_role"></label>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <section id="Role">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Rol<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+                    <div class="table-responsive">
+                        <table class="table table-striped" id="students-table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        ID
+                                    </th>
+                                    <th>
+                                        Nombre
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody id="Role-tbody">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <button type="button" id="btn_modal_rate_client" class="btn btn-primary" data-toggle="modal"
+            data-target="#modaldetalleventa">
+            Ver Tarifas
+        </button>
+    </div>
+
+    <!-- SPACE -->
+    <section id="space">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Espacio<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="space-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    
+                                    <th>
+                                        Number
+                                    </th>
+                                    <th>
+                                        Type
+                                    </th>
+                                    <th>
+                                        Status
+                                    </th>
+                                    <th>
+                                        Vehiculo
+                                    </th>
+                                    <th>
+                                        Parqueo
+                                    </th>
+                                    <th>
+                                        Hora entrada
+                                    </th>
+                                    <th>
+                                        Tarifa
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="space-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+      <!-- SPACE -->
+    <section id="spaceclient">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Espacios<small></small></h2>
+                </div>
+                <div class="col-md-12 col-sm-12">
+
+                    <div class="table-responsive">
+
+                        <table class="table table-striped" id="spaceclient-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    
+                                    <th>
+                                        Number
+                                    </th>
+                                    <th>
+                                        Type
+                                    </th>
+                                    <th>
+                                        Status
+                                    </th>
+                                    <th>
+                                        Vehiculo
+                                    </th>
+                                    <th>
+                                        Parqueo
+                                    </th>
+                                    <th>
+                                        Hora entrada
+                                    </th>
+                                    <th>
+                                        Tarifa 
+                                    </th>
+                                    <th>
+                                        Action
+                                    </th>
+                                </tr>
+
+                            </thead>
+
+                            <tbody id="spaceclient-tbody">
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!--New administrador -->
+    <section id="AddAdmin">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+
+
+                        <form action="" id="admin-entry-form">
+                            <h2>Agregar administrador</h2>
+
+                            
+
+
+                            <input type="text" name="idAdmin" id="idAdmin" hidden>
+
+
+                            <label>
+                                <input type="text" name="nameAdmin" id="nameAdmin" class="form-control" placeholder="Nombre"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="lastNameAdmin" id="lastNameAdmin" class="form-control" placeholder="Apellidos"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="phoneAdmin" id="phoneAdmin" class="form-control" placeholder="Teléfono"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="adressAdmin" id="adressAdmin" class="form-control" placeholder="Dirección"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="email" name="emailAdmin" id="emailAdmin" class="form-control"
+                                    placeholder="Correo electronico" required="" />
+                            </label>
+
+                            <input type="text" name="roleAdmin" id="roleAdmin" hidden value="2">
+
+                            <label>
+                                <input type="password" name="passwordAdmin" id="passwordAdmin" class="form-control"
+                                    placeholder="Contraseña" required="" />
+                            </label>
+
+                            <label>
+                                <input type="password" name="password2Admin" id="password2Admin" class="form-control"
+                                    placeholder="Repita la contraseña" required="">
+                            </label>
+
+                            <button type="button" class="submit" onclick="AddAdmin();" id="form-submit">Guardar</button> 
+
+                            <label id="resultAdmin"></label>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+
+     <!--New dependent -->
+    <section id="AddDependet">
+
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+
+                </div>
+
+                <div class="col-md-offset-1 col-md-4 col-sm-12">
+                    <div class="entry-form2">
+
+
+                        <form action="" id="depent-entry-form">
+                            <h2>Agregar dependiente</h2>
+
+                            <input type="text" name="idDependent" id="idDependent" hidden>
+
+
+                            <label>
+                                <input type="text" name="nameDependent" id="nameDependent" class="form-control" placeholder="Nombre"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="lastNameDependent" id="lastNameDependent" class="form-control" placeholder="Apellidos"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="phoneDependent" id="phoneDependent" class="form-control" placeholder="Teléfono"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="text" name="adressDependent" id="adressDependent" class="form-control" placeholder="Dirección"
+                                    required="" />
+                            </label>
+
+                            <label>
+                                <input type="email" name="emailDependent" id="emailDependent" class="form-control"
+                                    placeholder="Correo electronico" required="" />
+                            </label>
+
+                            <input type="text" name="roleDependent" id="roleDependent" hidden value="3">
+
+                            <label>
+                                <input type="password" name="passwordDependent" id="passwordDependent" class="form-control"
+                                    placeholder="Contraseña" required="" />
+                            </label>
+
+                            <label>
+                                <input type="password" name="password2Dependent" id="password2Dependent" class="form-control"
+                                    placeholder="Repita la contraseña" required="">
+                            </label>
+
+                            <button type="button" class="submit" onclick="AddDependent();" id="form-submit">Guardar</button> 
+
+                            <label id="resultDependent"></label>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-6 col-sm-12">
+                    <form id="contact-form" role="form" action="" method="post">
+                        <div class="section-title">
+                            <h2>Contáctanos<small>Envianos tus dudas sobre nuestros servicios</small></h2>
+                        </div>
+
+                        <div class="col-md-12 col-sm-12">
+                            <input type="text" class="form-control" placeholder="Nombre" name="name" required="">
+
+                            <input type="email" class="form-control" placeholder="Ingrese su correo" name="email"
+                                required="">
+
+                            <textarea class="form-control" rows="6" placeholder="Mensaje" name="message"
+                                required=""></textarea>
+                        </div>
+
+                        <div class="col-md-4 col-sm-12">
+                            <input type="submit" class="form-control" name="send message" value="Send Message">
+                        </div>
+
+                    </form>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="contact-image">
+                        <img src="images/contact-image.jpg" class="img-responsive" alt="Smiling Two Girls">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- FOOTER -->
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-info">
+                        <div class="section-title">
+                            <h2>Dirección</h2>
+                        </div>
+                        <address>
+                            <p>De la Entrada del Barrio Chino, Avenida Segunda, 50 m al Norte, Comercial Nueva Era</p>
+                        </address>
+
+                        <ul class="social-icon">
+                            <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                            <li><a href="#" class="fa fa-twitter"></a></li>
+                            <li><a href="#" class="fa fa-instagram"></a></li>
+                        </ul>
+
+                        <div class="copyright-text">
+                            <p>Copyright &copy; 2022 Parqueo Barcroft</p>
+
+                            <p>Design: TemplateMo</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="footer-info">
+                        <div class="section-title">
+                            <h2>Información de Contacto</h2>
+                        </div>
+                        <address>
+                            <p>+506 4001 4983, +506 4001 5090</p>
+                            <p><a href="mailto:youremail.co">parqueobarcroft@gmail.com</a></p>
+                        </address>
+
+                        <div class="footer_menu">
+                            <h2>Enlaces</h2>
+                            <ul>
+                                <li><a href="#">Términos y condiciones</a></li>
+                                <li><a href="#">Política de Reembolso</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-12">
+                    <div class="footer-info newsletter-form">
+                        <div class="section-title">
+                            <h2>Inscríbase para recibir noticias</h2>
+                        </div>
+                        <div>
+                            <div class="form-group">
+                                <form action="#" method="get">
+                                    <input type="email" class="form-control" placeholder="Ingrese su email"
+                                        name="emailFooter" id="emailFooter" required="">
+                                    <input type="submit" class="form-control" name="submit" id="form-submit"
+                                        value="Enviar">
+                                </form>
+                                <span><sup>*</sup>Tenga en cuenta que no enviamos spam a su correo electrónico.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+
+
+
+    <!-- SCRIPTS -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/site.js"></script>
+    <script src="js/login.js"></script>
+    <script src="js/rate.js"></script>
+    <script src="js/role.js"></script>
+    <script src="js/admin.js"></script>
+    <script src="js/dependent.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
+</body>
+
+</html>
